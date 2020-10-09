@@ -7,4 +7,4 @@
 - ✨ In the past I've learned java, scheme, and python
 -->
 
-<img src="https://user-images.githubusercontent.com/63120066/95528253-7355b400-098c-11eb-89bc-7b377669af38.png" alt="Hannah Zhang">
+<img src="https://user-images.githubusercontent.com/63120066/95528990-9bdead80-098e-11eb-9c21-76bae1ac7634.png">
