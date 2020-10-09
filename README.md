@@ -1,4 +1,4 @@
-# Hi I'm Hannah!🏼👩🏻‍💻
+# Hi I'm Hannah! 👩🏻‍💻
 
 - 🎒 Junior at Gunn High School
 - 💻 Tech + biz + design junkie
