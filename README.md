@@ -1,4 +1,4 @@
-# Hi I'm Hannah! 👩🏻‍💻
+# Hi!
 
 <!-- Description (added to image)
 - 🎒 Junior at Gunn High School
