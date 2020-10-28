@@ -3,7 +3,7 @@
 
 - 🎒 Junior at Gunn High School.
 - 💻 Tech + biz + design junkie.
-- 🌱 I'm currently learning web development.
+- 🌱 I am currently learning web development.
 - ✨ In the past I've learned java, scheme, and python.
 
 <!-- This graphic has the same things except profile pic is included.
