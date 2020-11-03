@@ -1,7 +1,7 @@
 # Hi I'm Hannah! 👩🏻‍💻
 
 
-- 🎒 Gunn High School student.
+- 🎒 Student at Gunn High School.
 - 💻 Tech + biz + design junkie.
 - 🌱 I am currently learning web development.
 - ✨ In the past I've learned data structures in Java.
