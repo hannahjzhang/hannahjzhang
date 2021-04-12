@@ -1,10 +1,10 @@
-# Hi I'm Hannah! 👩🏻‍💻
+# Hello I'm Hannah 👩🏻‍💻
 
 
 - 🎒 Student at Gunn High School
 - 💻 Tech + biz + design
-- 🌱 I have currently mastered web design and am trying to learn web development
 <!--
+- 🌱 I have currently mastered web design and am trying to learn web development
 - ✨ In the past I've learned data structures in Java. -->
 
 <!-- This graphic has the same things except profile pic is included.
